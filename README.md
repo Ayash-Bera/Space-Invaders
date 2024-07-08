@@ -1,4 +1,4 @@
-# Project Title
+# Space Invaders
 
 ## Table of Contents
 
