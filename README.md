@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-This is the project that got me a lot of bragging rights back in 11th standard 
+This is the project that got me a lot of bragging rights back in 11th standard . I have not edited any code and kept the exact original code i displayed to my class for the originality feel free to fork this repo and go crazy.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -41,4 +41,4 @@ python3 -m pygame.examples.aliens
 
 ## Usage <a name = "usage"></a>
 
-this is a simple game with spaceships and aliens 
+this is a simple game with spaceships and aliens. You might have to edit the file directories to run the program.
